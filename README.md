@@ -5,8 +5,11 @@
 > Note: This was created many years ago, as a fun volunteer project, in one hot summer by group of awesome and dedicated people
 
 <p align="center" float="left">
-  <a href="https://register.bz-uk.roamingowl.com/map"><img width="450" alt="image" src="https://github.com/roamingowl/bz-uk/assets/161971527/e14eb4f8-1b5d-43f2-85a6-1583f92e82cc"></a>
-  <a href="https://register.bz-uk.roamingowl.com/map"><img width="143" alt="image" src="https://github.com/roamingowl/bz-uk/assets/161971527/e5951201-5ea6-45b5-823b-1dc11a83205f"></a>
+  <img width="450" alt="image" src="https://github.com/roamingowl/bz-uk/assets/161971527/e14eb4f8-1b5d-43f2-85a6-1583f92e82cc">
+  <img width="143" alt="image" src="https://github.com/roamingowl/bz-uk/assets/161971527/e5951201-5ea6-45b5-823b-1dc11a83205f">
+</p>
+<p align=center>
+  See it <a href="https://register.bz-uk.roamingowl.com/map">live</a>
 </p>
 
 ## Tech stack
@@ -47,8 +50,34 @@ App consists of 3 parts:
  - has map (png tiles, rendered from huge svg)
  - has extensive botanical content
  - has QR scanner directly in JS
+ - live GPS location
  - searches over all the plants in botanical garde, and can show them on map
  - everything is cached offline (even map)
+
+## Some examples
+
+https://github.com/roamingowl/bz-uk/assets/161971527/ef41ebca-a9f0-43bf-914f-a18fe3e2e457
+<p align=center>
+  Mobile view - example of expositon info
+</p>
+
+
+
+https://github.com/roamingowl/bz-uk/assets/161971527/ba287a9c-23c3-49d7-9bb9-817e5716be31
+<p align=center>
+  Tablet view - plant detail
+</p>
+
+
+
+
+https://github.com/roamingowl/bz-uk/assets/161971527/605ee416-27f7-472a-b03d-2d4f0a9af839
+<p align=center>
+  Tablet view - searching plants
+</p>
+
+
+
 
 
 ## Sources
