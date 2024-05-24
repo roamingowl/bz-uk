@@ -77,6 +77,13 @@ https://github.com/roamingowl/bz-uk/assets/161971527/605ee416-27f7-472a-b03d-2d4
 </p>
 
 
+<p align="center" float="left">
+  <img width="450" alt="image" src="https://github.com/roamingowl/bz-uk/assets/161971527/aadbae74-3b99-4278-b9c6-7e4489bf2d1a">
+</p>
+<p align=center>
+  Mobile view - making app offline
+</p>
+
 
 
 
